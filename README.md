@@ -5,27 +5,6 @@
 
 ## Contents
 
-- [C](#c)
-- [C#](#c#)
-- [CSS](#css)
-- [Dockerfile](#dockerfile)
-- [EJS](#ejs)
-- [Go](#go)
-- [HTML](#html)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Makefile](#makefile)
-- [Others](#others)
-- [PHP](#php)
-- [Perl](#perl)
-- [PowerShell](#powershell)
-- [Python](#python)
-- [Roff](#roff)
-- [SCSS](#scss)
-- [Shell](#shell)
-- [TypeScript](#typescript)
-- [Vim Script](#vim-script)
-- [Vue](#vue)
 
 ## Ansible 
 
