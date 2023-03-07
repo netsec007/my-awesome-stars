@@ -27,22 +27,22 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 
-## C 
+## Ansible 
 
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
-## C# # 
+## dotfiles 
 
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 
-## CSS 
+## Docker 
 
 - [Cacti/documentation](https://github.com/Cacti/documentation) - Documentation for Cacti, Spine, RRDProxy and more
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [saadq/reddit-image-scraper](https://github.com/saadq/reddit-image-scraper) - An image scraper for Reddit written in Ruby.
 
-## Dockerfile 
+## HomeLab 
 
 - [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
@@ -53,29 +53,29 @@
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) - 
 
-## EJS 
+## iPhone 
 
 - [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
 
-## Go 
+## Monitoring 
 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 
-## HTML 
+## Net Scripts 
 
 - [Steewe/ping](https://github.com/Steewe/ping) - checks if certain pages are up  and diplays  status in  simple http interface
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [CediGaming/cisco-acl-generator](https://github.com/CediGaming/cisco-acl-generator) - A simple HTML/JS website to save you from typing Access Control Lists for your Cisco device.
 
-## Java 
+## Network 
 
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [netxms/netxms](https://github.com/netxms/netxms) - NetXMS - Open Source network and infrastructure monitoring and management
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 
-## JavaScript 
+## Monitoring 
 
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [phillipsnick/apc-pdu-snmp](https://github.com/phillipsnick/apc-pdu-snmp) - APC PDU module utilising SNMP
@@ -93,7 +93,7 @@
 - [CiscoKorea/ciscowebkit](https://github.com/CiscoKorea/ciscowebkit) - Cisco Product Feature Management Web Toolkit
 - [cisco/cisco.github.io](https://github.com/cisco/cisco.github.io) - Public Github Pages for Cisco
 
-## Makefile 
+## Other 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -129,7 +129,7 @@
 - [brona/ansible-cisco-ios-example](https://github.com/brona/ansible-cisco-ios-example) - Example playbook to demonstrate Ansible Network Module usage for Cisco IOS devices.
 - [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
 
-## PHP 
+## RasPi 
 
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
 - [ZenNMS/ZenNMS](https://github.com/ZenNMS/ZenNMS) - ZenNMS is a Network Monitoring System written in PHP and made with Laravel
@@ -137,16 +137,13 @@
 - [marcelofmatos/phpnetmap](https://github.com/marcelofmatos/phpnetmap) - Web application for ethernet mapping. PHP Software for network device monitoring with SNMP v(1/2c/3) protocol.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [RedShift1/ciscoconfig.net](https://github.com/RedShift1/ciscoconfig.net) - https://ciscoconfig.net source code
-
-## Perl 
+ 
 
 - [jlmcgraw/networkConfigUtilities](https://github.com/jlmcgraw/networkConfigUtilities) - This is a collection of scripts to pull information from the configuration files of various network devices (eg. Cisco routers and switches, Riverbed Steelheads, Cisco Nexus, Cisco ASA) and use it to 
 
-## PowerShell 
 
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 
-## Python 
 
 - [corvese/mac_finder](https://github.com/corvese/mac_finder) - Searches Cisco Switches for a MAC Address
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
@@ -225,17 +222,14 @@
 - [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
-## Roff 
 
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertman
-
-## SCSS 
+ 
 
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
 
-## Shell 
 
 - [Rayregula/csv-network-status](https://github.com/Rayregula/csv-network-status) - Ping network hosts from a CSV file and list status.
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -253,20 +247,17 @@
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [jamontes/ciscotools](https://github.com/jamontes/ciscotools) - Sort of scripts used with Cisco routers/switches from a Linux terminal to automated common tasks, as fast admin access or configuration backups in a very easy and direct way.
 
-## TypeScript 
 
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
 
-## Vim Script 
 
 - [momota/cisco.vim](https://github.com/momota/cisco.vim) - Vim syntax for cisco configuration files.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 
-## Vue 
 
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
