@@ -5,163 +5,340 @@
 
 ## Contents
 
+- [ansible](#ansible)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
+- [bash](#bash)
+- [cli](#cli)
+- [css](#css)
+- [data-visualization](#data-visualization)
+- [devops](#devops)
+- [docker](#docker)
+- [documentation](#documentation)
+- [flask](#flask)
+- [github](#github)
+- [github-api](#github-api)
+- [go](#go)
+- [golang](#golang)
+- [good-first-issue](#good-first-issue)
+- [hacking](#hacking)
+- [hacktoberfest](#hacktoberfest)
+- [html](#html)
+- [icon-font](#icon-font)
+- [ios](#ios)
+- [java](#java)
+- [javascript](#javascript)
+- [jekyll](#jekyll)
+- [kubernetes](#kubernetes)
+- [laravel](#laravel)
+- [library](#library)
+- [linux](#linux)
+- [macos](#macos)
+- [monitoring](#monitoring)
+- [mysql](#mysql)
+- [nodejs](#nodejs)
+- [open-source](#open-source)
+- [others](#others)
+- [php](#php)
+- [pwa](#pwa)
+- [python](#python)
+- [python3](#python3)
+- [react](#react)
+- [security](#security)
+- [shell](#shell)
+- [terminal](#terminal)
+- [twitter](#twitter)
+- [vim](#vim)
+- [vue](#vue)
+- [web](#web)
+- [webapp](#webapp)
+- [website](#website)
 
-## Ansible 
-
-- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-
-## dotfiles 
-
-- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
-
-## Docker 
-
-- [Cacti/documentation](https://github.com/Cacti/documentation) - Documentation for Cacti, Spine, RRDProxy and more
-- [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
-- [saadq/reddit-image-scraper](https://github.com/saadq/reddit-image-scraper) - An image scraper for Reddit written in Ruby.
-
-## HomeLab 
-
-- [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
-- [philhawthorne/docker-influxdb-grafana](https://github.com/philhawthorne/docker-influxdb-grafana) - A Docker container which runs InfluxDB and Grafana ready for persisting data
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image
-- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
-- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) - 
-
-## iPhone 
-
-- [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
-
-## Monitoring 
-
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-
-## Net Scripts 
-
-- [Steewe/ping](https://github.com/Steewe/ping) - checks if certain pages are up  and diplays  status in  simple http interface
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [CediGaming/cisco-acl-generator](https://github.com/CediGaming/cisco-acl-generator) - A simple HTML/JS website to save you from typing Access Control Lists for your Cisco device.
-
-## Network 
-
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-- [netxms/netxms](https://github.com/netxms/netxms) - NetXMS - Open Source network and infrastructure monitoring and management
-- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
-
-## Monitoring 
-
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
-- [phillipsnick/apc-pdu-snmp](https://github.com/phillipsnick/apc-pdu-snmp) - APC PDU module utilising SNMP
-- [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
-- [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
-- [jeroenpeeters/docker-ssh](https://github.com/jeroenpeeters/docker-ssh) - SSH Server for Docker containers  ~ Because every container should be accessible
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [Lissy93/lowlighter-metrics](https://github.com/Lissy93/lowlighter-metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [JCotton1123/netmanage](https://github.com/JCotton1123/netmanage) - A Cisco-centric network management solution
-- [yvesago/parseacl](https://github.com/yvesago/parseacl) - A Cisco ACL parser
-- [optiz0r/scgen](https://github.com/optiz0r/scgen) - Cisco switch configuration generator
-- [CiscoKorea/ciscowebkit](https://github.com/CiscoKorea/ciscowebkit) - Cisco Product Feature Management Web Toolkit
-- [cisco/cisco.github.io](https://github.com/cisco/cisco.github.io) - Public Github Pages for Cisco
-
-## Other 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-## Others 
-
-- [amir-am/Router-and-Switch-Monitoring](https://github.com/amir-am/Router-and-Switch-Monitoring) - Router & Switch Monitoring
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
-- [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
-- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
-- [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
-- [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-- [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ryonkn/cisco-acl-grep](https://github.com/ryonkn/cisco-acl-grep) - Cisco Routers/Switchs acl log(%SEC-6-IPACCESSLOGP) grep and src/dst hostname resolve tool
-- [colin-mccarthy/cisco_base_config](https://github.com/colin-mccarthy/cisco_base_config) - Ansible role to apply a base config on a 3560 switch
-- [automateyournetwork/CiscoIOSFacts](https://github.com/automateyournetwork/CiscoIOSFacts) - Ansible Playbooks to gather and transform Cisco IOS Facts into human readable documentation automatically
-- [Arc0re/Iceberg-iTerm2](https://github.com/Arc0re/Iceberg-iTerm2) - Dark blue theme. Port of the http://cocopon.me/app/vim-iceberg/ terminal.app theme to iTerm2
-- [reobin/spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) - SpaceCamp vim theme for iTerm2
-- [cow-co/ansible-template](https://github.com/cow-co/ansible-template) - A template structure for Ansible projects
-- [rogerperkin/playbooks](https://github.com/rogerperkin/playbooks) - Ansible Playbooks for Network Engineers
-- [maccioni/cisco-ansible](https://github.com/maccioni/cisco-ansible) - This project is a collection of playbook examples for Cisco network devices running IOS and NX-OS.
-- [jrihds/ciscoConfig](https://github.com/jrihds/ciscoConfig) - A repository for various Cisco IOS configurations, mainly used for certification revision
-- [swisstxt/ansible-role-ios-switch](https://github.com/swisstxt/ansible-role-ios-switch) - Ansible role for managing IOS switches
-- [abteenz/Ansible](https://github.com/abteenz/Ansible) - Network Automation with Ansible and Python
-- [pseudonode/Network_Automation_Ansible](https://github.com/pseudonode/Network_Automation_Ansible) - Ansible Playbooks
-- [colin-mccarthy/ansible-playbooks-for-cisco-ios](https://github.com/colin-mccarthy/ansible-playbooks-for-cisco-ios) - 🚀⚡️ Ansible playbook examples for Cisco IOS devices 🔥
-- [logscape/ciscoapp](https://github.com/logscape/ciscoapp) - Monitor Cisco ASA devices
-- [brona/ansible-cisco-ios-example](https://github.com/brona/ansible-cisco-ios-example) - Example playbook to demonstrate Ansible Network Module usage for Cisco IOS devices.
-- [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
-
-## RasPi 
+## ansible 
 
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
+- [syedur-rahman/networkcoder](https://github.com/syedur-rahman/networkcoder) - 🔧 Project-based approach to network automation.
+- [network-automation/ansible-napalm-samples](https://github.com/network-automation/ansible-napalm-samples) - GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Arista vEOS
+- [abteenz/Ansible](https://github.com/abteenz/Ansible) - Network Automation with Ansible and Python
+- [jasonbarbee/ansible-cisco-inventory](https://github.com/jasonbarbee/ansible-cisco-inventory) - Ansible Tooling for Cisco Inventory, Smartnet, and Diagrams
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+
+## awesome 
+
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+## awesome-list 
+
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+## bash 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [Rayregula/csv-network-status](https://github.com/Rayregula/csv-network-status) - Ping network hosts from a CSV file and list status.
+- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
+
+## cli 
+
+- [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
+
+## css 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+
+## data-visualization 
+
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+
+## devops 
+
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [cober2019/Network-Automation](https://github.com/cober2019/Network-Automation) - Cisco ACI, Firepower, Meraki, NETCONF, and SQL Python Programs
+
+## docker 
+
+- [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
+- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
+- [jeroenpeeters/docker-ssh](https://github.com/jeroenpeeters/docker-ssh) - SSH Server for Docker containers  ~ Because every container should be accessible
+- [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [marcelofmatos/phpnetmap](https://github.com/marcelofmatos/phpnetmap) - Web application for ethernet mapping. PHP Software for network device monitoring with SNMP v(1/2c/3) protocol.
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertman
+- [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
+
+## documentation 
+
+- [Cacti/documentation](https://github.com/Cacti/documentation) - Documentation for Cacti, Spine, RRDProxy and more
+
+## flask 
+
+- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+
+## github 
+
+- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## github-api 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## go 
+
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+
+## golang 
+
+- [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+
+## good-first-issue 
+
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+
+## hacking 
+
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## hacktoberfest 
+
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR
+- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [philhawthorne/docker-influxdb-grafana](https://github.com/philhawthorne/docker-influxdb-grafana) - A Docker container which runs InfluxDB and Grafana ready for persisting data
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
+- [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) - 
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+
+## html 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+
+## icon-font 
+
+- [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+
+## ios 
+
+- [colin-mccarthy/ansible-playbooks-for-cisco-ios](https://github.com/colin-mccarthy/ansible-playbooks-for-cisco-ios) - 🚀⚡️ Ansible playbook examples for Cisco IOS devices 🔥
+- [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
+
+## java 
+
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+
+## javascript 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## jekyll 
+
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
+- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
+
+## kubernetes 
+
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+
+## laravel 
+
 - [ZenNMS/ZenNMS](https://github.com/ZenNMS/ZenNMS) - ZenNMS is a Network Monitoring System written in PHP and made with Laravel
-- [tux-00/network_miner](https://github.com/tux-00/network_miner) - Network Miner generates a network map by sending SNMP requests (LLDP/CDP/EDP).
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
+
+## library 
+
+- [trehn/hnmp](https://github.com/trehn/hnmp) - High-level Python SNMP library
+
+## linux 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
+
+## macos 
+
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+
+## monitoring 
+
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [upa/deadman](https://github.com/upa/deadman) - deadman is a curses-based host status checking application using ping
+- [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
+- [amir-am/Router-and-Switch-Monitoring](https://github.com/amir-am/Router-and-Switch-Monitoring) - Router & Switch Monitoring
+- [ZenNMS/ZenNMS](https://github.com/ZenNMS/ZenNMS) - ZenNMS is a Network Monitoring System written in PHP and made with Laravel
+- [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
 - [marcelofmatos/phpnetmap](https://github.com/marcelofmatos/phpnetmap) - Web application for ethernet mapping. PHP Software for network device monitoring with SNMP v(1/2c/3) protocol.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
-- [RedShift1/ciscoconfig.net](https://github.com/RedShift1/ciscoconfig.net) - https://ciscoconfig.net source code
- 
+- [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 
-- [jlmcgraw/networkConfigUtilities](https://github.com/jlmcgraw/networkConfigUtilities) - This is a collection of scripts to pull information from the configuration files of various network devices (eg. Cisco routers and switches, Riverbed Steelheads, Cisco Nexus, Cisco ASA) and use it to 
+## mysql 
 
+- [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
-- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
+## nodejs 
 
+- [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [yvesago/parseacl](https://github.com/yvesago/parseacl) - A Cisco ACL parser
+
+## open-source 
+
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+
+## others 
 
 - [corvese/mac_finder](https://github.com/corvese/mac_finder) - Searches Cisco Switches for a MAC Address
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [bistungki/pinggo](https://github.com/bistungki/pinggo) - ping google with color status
+- [Steewe/ping](https://github.com/Steewe/ping) - checks if certain pages are up  and diplays  status in  simple http interface
 - [username16838/website-status-checker](https://github.com/username16838/website-status-checker) - ping common websites
 - [jamesb2147/netbox-status-loader](https://github.com/jamesb2147/netbox-status-loader) - A python program to check pingability and DNS names of IP addresses in Netbox and load that state data into it.
-- [upa/deadman](https://github.com/upa/deadman) - deadman is a curses-based host status checking application using ping
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
+- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
+- [phillipsnick/apc-pdu-snmp](https://github.com/phillipsnick/apc-pdu-snmp) - APC PDU module utilising SNMP
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm) - Cobalt2 Colour Scheme for iTerm2 + ZSH
 - [HoverHell/RedditImageGrab](https://github.com/HoverHell/RedditImageGrab) - Downloads images from sub-reddits of reddit.com.
-- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
+- [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
+- [roachfire/roachlab](https://github.com/roachfire/roachlab) - An ongoing project to create a secure and modular environment to host various services I find useful.
+- [umiddelb/armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
+- [tux-00/network_miner](https://github.com/tux-00/network_miner) - Network Miner generates a network map by sending SNMP requests (LLDP/CDP/EDP).
+- [netxms/netxms](https://github.com/netxms/netxms) - NetXMS - Open Source network and infrastructure monitoring and management
+- [Lissy93/lowlighter-metrics](https://github.com/Lissy93/lowlighter-metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [scline/docker-cacti](https://github.com/scline/docker-cacti) - Cacti version 1+ under Docker
+- [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
+- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
+- [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
+- [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
+- [dmslowmo/parl-pings](https://github.com/dmslowmo/parl-pings) - Bash script to ping multiple hosts in parallel
 - [YasserAuda/PythonForNetowrk-Cisco](https://github.com/YasserAuda/PythonForNetowrk-Cisco) - Here You will find all Python scripts used in Python for Cisco R&S and Networking Professional [Free Arabic Videos Series]
 - [n0arch/heart_beat.py](https://github.com/n0arch/heart_beat.py) - Simple TCP/PING heartbeat script
 - [jotape75/pingsweep](https://github.com/jotape75/pingsweep) - Python3 script to perform pingsweep and simple nmap scan using threading.
 - [richbibby/cisco-acl-updater](https://github.com/richbibby/cisco-acl-updater) - A Python app to update Cisco IOS Access Control Lists
+- [ryonkn/cisco-acl-grep](https://github.com/ryonkn/cisco-acl-grep) - Cisco Routers/Switchs acl log(%SEC-6-IPACCESSLOGP) grep and src/dst hostname resolve tool
+- [CediGaming/cisco-acl-generator](https://github.com/CediGaming/cisco-acl-generator) - A simple HTML/JS website to save you from typing Access Control Lists for your Cisco device.
 - [pycoder2014/CiscoAclUpdate](https://github.com/pycoder2014/CiscoAclUpdate) - Script to update  ACL on Cisco IOS network devices
-- [WilliamMarti/cisco-acl-audit](https://github.com/WilliamMarti/cisco-acl-audit) - Way to clean up ACLs on Routers/L3 Switches
-- [cober2019/Network-Automation](https://github.com/cober2019/Network-Automation) - Cisco ACI, Firepower, Meraki, NETCONF, and SQL Python Programs
-- [routetehpacketz/cisco-ip-trace](https://github.com/routetehpacketz/cisco-ip-trace) - Trace IP addresses to edge Cisco switch port
+- [momota/cisco.vim](https://github.com/momota/cisco.vim) - Vim syntax for cisco configuration files.
+- [colin-mccarthy/cisco_base_config](https://github.com/colin-mccarthy/cisco_base_config) - Ansible role to apply a base config on a 3560 switch
+- [automateyournetwork/CiscoIOSFacts](https://github.com/automateyournetwork/CiscoIOSFacts) - Ansible Playbooks to gather and transform Cisco IOS Facts into human readable documentation automatically
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS
 - [NetworkLife/Network-Automation](https://github.com/NetworkLife/Network-Automation) - My network automation scripts
 - [zerxen/SnmpNetworkTopologyVisualizator](https://github.com/zerxen/SnmpNetworkTopologyVisualizator) - Python backend script and JS/HTML frontend to visualize a network topology discovered via SNMP
-- [network-evolution/Python_for_Network_Engineers](https://github.com/network-evolution/Python_for_Network_Engineers) - This repo contains Scripts which are explained in the youtube Channel https://www.youtube.com/c/NetworkEvolution/videos?sub_confirmation=1
-- [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules) - NetBox modules for Ansible using Ansible Collections
-- [syedur-rahman/networkcoder](https://github.com/syedur-rahman/networkcoder) - 🔧 Project-based approach to network automation.
+- [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
+- [Arc0re/Iceberg-iTerm2](https://github.com/Arc0re/Iceberg-iTerm2) - Dark blue theme. Port of the http://cocopon.me/app/vim-iceberg/ terminal.app theme to iTerm2
+- [reobin/spacecamp-iterm](https://github.com/reobin/spacecamp-iterm) - SpaceCamp vim theme for iTerm2
+- [fritz-smh/yi-hack](https://github.com/fritz-smh/yi-hack) - Xiaomi Yi Ants camera hack
 - [admiralspark/NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [MJL85/natlas](https://github.com/MJL85/natlas) - natlas - Network Discovery and Auto-Diagramming
-- [CiscoDevNet/python_code_samples_network](https://github.com/CiscoDevNet/python_code_samples_network) - A collection of Python Code Samples for Network Management.  Includes samples to run on-box and off-box.
 - [ktbyers/netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 - [cbueche/Agent-Jones](https://github.com/cbueche/Agent-Jones) - a web-service to configure and retrieve info from Cisco devices
 - [germandutchwindtunnels/nettools](https://github.com/germandutchwindtunnels/nettools) - Networking tools to handle networks of Cisco IOS-based switches. Written in Python.
-- [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 - [verbosemode/ciscoconfparse-cli](https://github.com/verbosemode/ciscoconfparse-cli) - Grep-like tool for Cisco IOS configs
 - [mpenning/ciscoconfparse-audit](https://github.com/mpenning/ciscoconfparse-audit) - Demo of how to audit router / switch configs with ciscoconfparse and pytest
-- [CiscoDevNet/coding-skills-sample-code](https://github.com/CiscoDevNet/coding-skills-sample-code) - Sample code for the Cisco DevNet Coding Skills Learning Labs
 - [day0ng/w-sw-ssh](https://github.com/day0ng/w-sw-ssh) - This is a simple tool to execute multiple commands on network device, such as router and switch, and it supports Cisco Catalyst, Cisco Nexus, Huawei and H3C.
 - [wintermute000/ansible-cisco-conf](https://github.com/wintermute000/ansible-cisco-conf) - A dirty ansible script using dynamic inventory (python + CSV files) to generate Cisco L2 switch configurations
 - [jgajek/cisco-config-scan](https://github.com/jgajek/cisco-config-scan) - A configuration scanner for Cisco network devices
@@ -174,73 +351,125 @@
 - [mellowdrifter/Cisco-OSPF-Checker](https://github.com/mellowdrifter/Cisco-OSPF-Checker) - Cisco OSPF Checker
 - [PackeTsar/freeztp](https://github.com/PackeTsar/freeztp) - An Open-Source Zero-Touch Provisioning System for Cisco IOS.
 - [networklore/ansible-cisco-snmp](https://github.com/networklore/ansible-cisco-snmp) - Ansible modules using SNMP to manage Cisco devices
-- [trehn/hnmp](https://github.com/trehn/hnmp) - High-level Python SNMP library
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [saadq/reddit-image-scraper](https://github.com/saadq/reddit-image-scraper) - An image scraper for Reddit written in Ruby.
 - [2hands10fingers/Reddit-Image-Scraper-1.0](https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0) - Scrapes/downloads a selected subreddit's posted images by a specified date range on http://reddit.com
-- [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
+- [cow-co/ansible-template](https://github.com/cow-co/ansible-template) - A template structure for Ansible projects
+- [rogerperkin/playbooks](https://github.com/rogerperkin/playbooks) - Ansible Playbooks for Network Engineers
 - [abbacode/ciscoasarulecheck](https://github.com/abbacode/ciscoasarulecheck) - Python script that allows offline parsing of Cisco ASA firewall rules
 - [abbacode/ciscoconfgenerator](https://github.com/abbacode/ciscoconfgenerator) - Automate the configuration of Cisco (or any other vendor) configuration using a simple Excel front end
-- [network-automation/ansible-napalm-samples](https://github.com/network-automation/ansible-napalm-samples) - GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Arista vEOS
+- [maccioni/cisco-ansible](https://github.com/maccioni/cisco-ansible) - This project is a collection of playbook examples for Cisco network devices running IOS and NX-OS.
+- [jrihds/ciscoConfig](https://github.com/jrihds/ciscoConfig) - A repository for various Cisco IOS configurations, mainly used for certification revision
 - [joedborg/CoPing](https://github.com/joedborg/CoPing) - Cisco style ping tool written Python
 - [joelwking/ansible-aci](https://github.com/joelwking/ansible-aci) - Using Ansible for Cisco ACI Deployment and Orchestration
 - [napalm-automation/napalm](https://github.com/napalm-automation/napalm) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [napalm-automation/napalm-ansible](https://github.com/napalm-automation/napalm-ansible) - 
+- [swisstxt/ansible-role-ios-switch](https://github.com/swisstxt/ansible-role-ios-switch) - Ansible role for managing IOS switches
 - [abdulkcode/CiscoConfigGenerator](https://github.com/abdulkcode/CiscoConfigGenerator) - Bulk generation of Cisco IOS based configuration using a spreadsheet as the front end
 - [matt852/python-scripts](https://github.com/matt852/python-scripts) - My own collection of Python scripts I've written for Cisco administration
+- [jlmcgraw/networkConfigUtilities](https://github.com/jlmcgraw/networkConfigUtilities) - This is a collection of scripts to pull information from the configuration files of various network devices (eg. Cisco routers and switches, Riverbed Steelheads, Cisco Nexus, Cisco ASA) and use it to 
+- [JCotton1123/netmanage](https://github.com/JCotton1123/netmanage) - A Cisco-centric network management solution
 - [gcmalloc/ciscotator](https://github.com/gcmalloc/ciscotator) - A cisco configuration library for ssh and serial connection
 - [networkop/cisco-ansible-provisioning](https://github.com/networkop/cisco-ansible-provisioning) - 
-- [jj46/cisco_acl](https://github.com/jj46/cisco_acl) - Python module for working with Cisco ACLs
-- [jasonbarbee/ansible-cisco-inventory](https://github.com/jasonbarbee/ansible-cisco-inventory) - Ansible Tooling for Cisco Inventory, Smartnet, and Diagrams
+- [jamontes/ciscotools](https://github.com/jamontes/ciscotools) - Sort of scripts used with Cisco routers/switches from a Linux terminal to automated common tasks, as fast admin access or configuration backups in a very easy and direct way.
 - [jonarm/cisco-ios-audit](https://github.com/jonarm/cisco-ios-audit) - Python script that parses a Cisco IOS configuration file and generates a report to efficiently perform an IT Security Audit
-- [mikepitagno/asa_cleanup](https://github.com/mikepitagno/asa_cleanup) - Cisco ASA Firewall Cleanup Script.
 - [matt852/netconfig](https://github.com/matt852/netconfig) - A GUI overlay for Cisco networking gear with CLI access only.
-- [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
+- [optiz0r/scgen](https://github.com/optiz0r/scgen) - Cisco switch configuration generator
+- [pseudonode/Network_Automation_Ansible](https://github.com/pseudonode/Network_Automation_Ansible) - Ansible Playbooks
+- [logscape/ciscoapp](https://github.com/logscape/ciscoapp) - Monitor Cisco ASA devices
+- [RedShift1/ciscoconfig.net](https://github.com/RedShift1/ciscoconfig.net) - https://ciscoconfig.net source code
+- [CiscoKorea/ciscowebkit](https://github.com/CiscoKorea/ciscowebkit) - Cisco Product Feature Management Web Toolkit
+- [cisco/cisco.github.io](https://github.com/cisco/cisco.github.io) - Public Github Pages for Cisco
+- [brona/ansible-cisco-ios-example](https://github.com/brona/ansible-cisco-ios-example) - Example playbook to demonstrate Ansible Network Module usage for Cisco IOS devices.
 - [Wyko/netcrawl](https://github.com/Wyko/netcrawl) - Netcrawl is a tool designed to discover and poll one or more devices, inventory them, and then provide useful data on the processed devices.
+- [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
 - [lussier/ciscosnmp](https://github.com/lussier/ciscosnmp) - Monitor Spanning-tree Port Status on Cisco Switches using SNMP with this simple Python script.
+
+## php 
+
+- [marcelofmatos/phpnetmap](https://github.com/marcelofmatos/phpnetmap) - Web application for ethernet mapping. PHP Software for network device monitoring with SNMP v(1/2c/3) protocol.
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+
+## pwa 
+
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+## python 
+
+- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [WilliamMarti/cisco-acl-audit](https://github.com/WilliamMarti/cisco-acl-audit) - Way to clean up ACLs on Routers/L3 Switches
+- [cober2019/Network-Automation](https://github.com/cober2019/Network-Automation) - Cisco ACI, Firepower, Meraki, NETCONF, and SQL Python Programs
+- [routetehpacketz/cisco-ip-trace](https://github.com/routetehpacketz/cisco-ip-trace) - Trace IP addresses to edge Cisco switch port
+- [network-evolution/Python_for_Network_Engineers](https://github.com/network-evolution/Python_for_Network_Engineers) - This repo contains Scripts which are explained in the youtube Channel https://www.youtube.com/c/NetworkEvolution/videos?sub_confirmation=1
+- [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
+- [CiscoDevNet/python_code_samples_network](https://github.com/CiscoDevNet/python_code_samples_network) - A collection of Python Code Samples for Network Management.  Includes samples to run on-box and off-box.
+- [CiscoDevNet/coding-skills-sample-code](https://github.com/CiscoDevNet/coding-skills-sample-code) - Sample code for the Cisco DevNet Coding Skills Learning Labs
+- [trehn/hnmp](https://github.com/trehn/hnmp) - High-level Python SNMP library
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
+- [jj46/cisco_acl](https://github.com/jj46/cisco_acl) - Python module for working with Cisco ACLs
+- [mikepitagno/asa_cleanup](https://github.com/mikepitagno/asa_cleanup) - Cisco ASA Firewall Cleanup Script.
+- [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 - [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
+## python3 
+
+- [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
+- [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
+
+## react 
+
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+## security 
+
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+
+## shell 
 
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
-- [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertman
- 
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 
-- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
-- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
+## terminal 
 
-
-- [Rayregula/csv-network-status](https://github.com/Rayregula/csv-network-status) - Ping network hosts from a CSV file and list status.
-- [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm) - Cobalt2 Colour Scheme for iTerm2 + ZSH
-- [roachfire/roachlab](https://github.com/roachfire/roachlab) - An ongoing project to create a secure and modular environment to host various services I find useful.
-- [umiddelb/armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
-- [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [scline/docker-cacti](https://github.com/scline/docker-cacti) - Cacti version 1+ under Docker
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
-- [dmslowmo/parl-pings](https://github.com/dmslowmo/parl-pings) - Bash script to ping multiple hosts in parallel
-- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
-- [fritz-smh/yi-hack](https://github.com/fritz-smh/yi-hack) - Xiaomi Yi Ants camera hack
-- [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
-- [jamontes/ciscotools](https://github.com/jamontes/ciscotools) - Sort of scripts used with Cisco routers/switches from a Linux terminal to automated common tasks, as fast admin access or configuration backups in a very easy and direct way.
-
-
-- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
+## twitter 
 
-- [momota/cisco.vim](https://github.com/momota/cisco.vim) - Vim syntax for cisco configuration files.
-- [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+
+## vim 
+
+- [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 
+## vue 
 
-- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+## web 
+
+- [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+
+## webapp 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## website 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 
 
 ## License
