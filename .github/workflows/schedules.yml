@@ -30,4 +30,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${netsec007} --repository ${my-awesome-stars} --sort --token ${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} --message 'my-awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'my-awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
