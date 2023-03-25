@@ -40,6 +40,7 @@
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
+- [p2p](#p2p)
 - [php](#php)
 - [pwa](#pwa)
 - [python](#python)
@@ -307,7 +308,6 @@
 - [HoverHell/RedditImageGrab](https://github.com/HoverHell/RedditImageGrab) - Downloads images from sub-reddits of reddit.com.
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 - [roachfire/roachlab](https://github.com/roachfire/roachlab) - An ongoing project to create a secure and modular environment to host various services I find useful.
 - [umiddelb/armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
 - [tux-00/network_miner](https://github.com/tux-00/network_miner) - Network Miner generates a network map by sending SNMP requests (LLDP/CDP/EDP).
@@ -392,6 +392,10 @@
 - [Wyko/netcrawl](https://github.com/Wyko/netcrawl) - Netcrawl is a tool designed to discover and poll one or more devices, inventory them, and then provide useful data on the processed devices.
 - [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
 - [lussier/ciscosnmp](https://github.com/lussier/ciscosnmp) - Monitor Spanning-tree Port Status on Cisco Switches using SNMP with this simple Python script.
+
+## p2p 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 
 ## php 
 
