@@ -48,6 +48,7 @@
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
+- [p2p](#p2p)
 - [php](#php)
 - [pwa](#pwa)
 - [python](#python)
@@ -438,6 +439,10 @@
 - [Wyko/netcrawl](https://github.com/Wyko/netcrawl) - Netcrawl is a tool designed to discover and poll one or more devices, inventory them, and then provide useful data on the processed devices.
 - [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
 - [lussier/ciscosnmp](https://github.com/lussier/ciscosnmp) - Monitor Spanning-tree Port Status on Cisco Switches using SNMP with this simple Python script.
+
+## p2p 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 
 ## php 
 
