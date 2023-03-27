@@ -37,6 +37,7 @@
 - [macos](#macos)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
@@ -282,6 +283,10 @@
 
 - [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+
+## nextjs 
+
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## nodejs 
 
