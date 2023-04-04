@@ -344,6 +344,9 @@
 
 ## others 
 
+- [saz/APC_Switch](https://github.com/saz/APC_Switch) - Simple script for switching an outlet of an APC Switched PDU on or off using SNMP
+- [gportay/cyberpower-pdu](https://github.com/gportay/cyberpower-pdu) - An SNMP script to control your remote outlets, making it easy by bash-completion!
+- [alessandromaggio/quicksnmp](https://github.com/alessandromaggio/quicksnmp) - A simple way to use SNMP in your Python Scripts
 - [corvese/mac_finder](https://github.com/corvese/mac_finder) - Searches Cisco Switches for a MAC Address
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [bistungki/pinggo](https://github.com/bistungki/pinggo) - ping google with color status
@@ -446,6 +449,8 @@
 
 ## php 
 
+- [maltris/sappss](https://github.com/maltris/sappss) - This is a simple PHP-script which is using SNMP to switch ports on a APC PDU in a nice and easy way
+- [disisto/apc-switched-rack-pdu-control-panel](https://github.com/disisto/apc-switched-rack-pdu-control-panel) - A PHP based Control panel to control multiple APC Switched Rack PDUs via SNMPv3. A single panel to switch (on, off, restart) the attached devices between different states.
 - [marcelofmatos/phpnetmap](https://github.com/marcelofmatos/phpnetmap) - Web application for ethernet mapping. PHP Software for network device monitoring with SNMP v(1/2c/3) protocol.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
@@ -456,6 +461,7 @@
 
 ## python 
 
+- [SchenkelT/PythonAPC](https://github.com/SchenkelT/PythonAPC) - Python Script for controlling a APC smart PDU using SNMP
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [WilliamMarti/cisco-acl-audit](https://github.com/WilliamMarti/cisco-acl-audit) - Way to clean up ACLs on Routers/L3 Switches
