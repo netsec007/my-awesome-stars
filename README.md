@@ -93,6 +93,7 @@
 
 ## bash 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [Rayregula/csv-network-status](https://github.com/Rayregula/csv-network-status) - Ping network hosts from a CSV file and list status.
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -147,6 +148,7 @@
 
 ## documentation 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [Cacti/documentation](https://github.com/Cacti/documentation) - Documentation for Cacti, Spine, RRDProxy and more
 
 ## flask 
@@ -300,6 +302,8 @@
 
 ## others 
 
+- [joakim666/colortail](https://github.com/joakim666/colortail) - Like the tail command line utility but with colors
+- [mcandre/dotfiles](https://github.com/mcandre/dotfiles) - Configuration files
 - [saz/APC_Switch](https://github.com/saz/APC_Switch) - Simple script for switching an outlet of an APC Switched PDU on or off using SNMP
 - [gportay/cyberpower-pdu](https://github.com/gportay/cyberpower-pdu) - An SNMP script to control your remote outlets, making it easy by bash-completion!
 - [alessandromaggio/quicksnmp](https://github.com/alessandromaggio/quicksnmp) - A simple way to use SNMP in your Python Scripts
