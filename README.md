@@ -9,6 +9,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [c](#c)
 - [cli](#cli)
 - [css](#css)
 - [data-visualization](#data-visualization)
@@ -100,6 +101,10 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
+
+## c 
+
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 
 ## cli 
 
@@ -253,6 +258,7 @@
 
 ## linux 
 
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -260,6 +266,7 @@
 
 ## macos 
 
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 
