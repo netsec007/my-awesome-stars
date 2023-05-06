@@ -6,6 +6,7 @@
 ## Contents
 
 - [ansible](#ansible)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -67,6 +68,13 @@
 - [abteenz/Ansible](https://github.com/abteenz/Ansible) - Network Automation with Ansible and Python
 - [jasonbarbee/ansible-cisco-inventory](https://github.com/jasonbarbee/ansible-cisco-inventory) - Ansible Tooling for Cisco Inventory, Smartnet, and Diagrams
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+
+## automation 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
+- [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
+- [mpenning/ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 
 ## awesome 
 
