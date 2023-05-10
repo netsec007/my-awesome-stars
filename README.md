@@ -318,6 +318,7 @@
 
 ## others 
 
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [MyElectrons/PDU-Commander](https://github.com/MyElectrons/PDU-Commander) - Command Line Interface with Python integration for scripting APC ap7900 and other series PDU
 - [ahribeng/apc_pdu_controller](https://github.com/ahribeng/apc_pdu_controller) - SSH Control for APC model PDU's
 - [joakim666/colortail](https://github.com/joakim666/colortail) - Like the tail command line utility but with colors
