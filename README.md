@@ -389,7 +389,7 @@
 - [jotape75/pingsweep](https://github.com/jotape75/pingsweep) - Python3 script to perform pingsweep and simple nmap scan using threading.
 - [richbibby/cisco-acl-updater](https://github.com/richbibby/cisco-acl-updater) - A Python app to update Cisco IOS Access Control Lists
 - [ryonkn/cisco-acl-grep](https://github.com/ryonkn/cisco-acl-grep) - Cisco Routers/Switchs acl log(%SEC-6-IPACCESSLOGP) grep and src/dst hostname resolve tool
-- [CediGaming/cisco-acl-generator](https://github.com/CediGaming/cisco-acl-generator) - A simple HTML/JS website to save you from typing Access Control Lists for your Cisco device.
+- [Cedric-Froehner/cisco-acl-generator](https://github.com/Cedric-Froehner/cisco-acl-generator) - A simple HTML/JS website to save you from typing Access Control Lists for your Cisco device.
 - [pycoder2014/CiscoAclUpdate](https://github.com/pycoder2014/CiscoAclUpdate) - Script to update  ACL on Cisco IOS network devices
 - [momota/cisco.vim](https://github.com/momota/cisco.vim) - Vim syntax for cisco configuration files.
 - [colin-mccarthy/cisco_base_config](https://github.com/colin-mccarthy/cisco_base_config) - Ansible role to apply a base config on a 3560 switch
