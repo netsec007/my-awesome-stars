@@ -301,6 +301,8 @@
 
 ## macos 
 
+- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
@@ -309,6 +311,7 @@
 
 ## monitoring 
 
+- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [upa/deadman](https://github.com/upa/deadman) - deadman is a curses-based host status checking application using ping
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
@@ -346,6 +349,7 @@
 
 ## others 
 
+- [dmcg310/Task-CLI](https://github.com/dmcg310/Task-CLI) - 
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [hoelsner/python-script-examples](https://github.com/hoelsner/python-script-examples) - This repository contains my python (3) script examples that focus on use cases for Network Engineers.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
