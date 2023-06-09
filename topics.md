@@ -16,7 +16,6 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
-- [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-visualization](#data-visualization)
 - [devops](#devops)
@@ -34,7 +33,6 @@
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [homebridge](#homebridge)
-- [html](#html)
 - [icon-font](#icon-font)
 - [ios](#ios)
 - [iot](#iot)
@@ -69,6 +67,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [twitter](#twitter)
+- [typescript](#typescript)
 - [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -154,13 +153,8 @@
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
-
-## css 
-
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 
 ## cybersecurity 
 
@@ -279,10 +273,6 @@
 
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 
-## html 
-
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
-
 ## icon-font 
 
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -303,7 +293,6 @@
 
 ## javascript 
 
-- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## jekyll 
@@ -603,6 +592,10 @@
 
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 
+## typescript 
+
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+
 ## vim 
 
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
@@ -611,6 +604,7 @@
 
 ## vue 
 
+- [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## vuejs 
