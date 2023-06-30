@@ -269,7 +269,7 @@
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
-- [JoshuaMulliken/ha-wyzeapi](https://github.com/JoshuaMulliken/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
+- [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
 
 ## homebrew 
