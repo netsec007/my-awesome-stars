@@ -400,6 +400,7 @@
 
 ## others 
 
+- [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) - Extended brand repo that can be used with https://github.com/sethcottle/littlelink
 - [dmcg310/Task-CLI](https://github.com/dmcg310/Task-CLI) - 
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [hoelsner/python-script-examples](https://github.com/hoelsner/python-script-examples) - This repository contains my python (3) script examples that focus on use cases for Network Engineers.
