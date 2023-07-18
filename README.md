@@ -359,6 +359,10 @@
 
 ## others 
 
+- [marcusjehrlander/librenms-searchendpoint](https://github.com/marcusjehrlander/librenms-searchendpoint) - Simple Python script that gathers and displays information from LibreNMS API and checks for manufacturer via macvendors.com API. Allows input of both IP and MAC-address
+- [limes-github/LibreNMS-Alerts](https://github.com/limes-github/LibreNMS-Alerts) - LibreNMS Alerts Templates.
+- [dubbelj/librenms-plugin-vlan-brief-overview](https://github.com/dubbelj/librenms-plugin-vlan-brief-overview) - A plugin for Librenms to list all device VLAN and some basic STP support (List devices in same STP domain, but it is very basic. Does not support multiple VLAN etc.)
+- [dubbelj/librenms-plugin-WhereIsVLAN](https://github.com/dubbelj/librenms-plugin-WhereIsVLAN) - A LibreNMS plugin to show what switchports that have a specific VLAN active
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [sethcottle/littlelink-extended](https://github.com/sethcottle/littlelink-extended) - Extended brand repo that can be used with https://github.com/sethcottle/littlelink
