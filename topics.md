@@ -414,6 +414,7 @@
 
 ## others 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [marcusjehrlander/librenms-searchendpoint](https://github.com/marcusjehrlander/librenms-searchendpoint) - Simple Python script that gathers and displays information from LibreNMS API and checks for manufacturer via macvendors.com API. Allows input of both IP and MAC-address
 - [limes-github/LibreNMS-Alerts](https://github.com/limes-github/LibreNMS-Alerts) - LibreNMS Alerts Templates.
