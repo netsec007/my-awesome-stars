@@ -56,6 +56,7 @@
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
+- [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -69,6 +70,7 @@
 - [sass](#sass)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [shell](#shell)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
@@ -337,6 +339,7 @@
 
 ## linux 
 
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
@@ -364,6 +367,7 @@
 
 ## monitoring 
 
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [upa/deadman](https://github.com/upa/deadman) - deadman is a curses-based host status checking application using ping
@@ -413,6 +417,7 @@
 
 ## others 
 
+- [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - The Network Automation Toolkit demonstrates the use of Netmiko and NAPALM, leveraging SSH connections, to automate diverse Cisco device network configurations. This reduces manual setup, leading to fa
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [marcusjehrlander/librenms-searchendpoint](https://github.com/marcusjehrlander/librenms-searchendpoint) - Simple Python script that gathers and displays information from LibreNMS API and checks for manufacturer via macvendors.com API. Allows input of both IP and MAC-address
@@ -529,6 +534,10 @@
 - [hosseinoliabak/cisco](https://github.com/hosseinoliabak/cisco) - Notes and codes while practicing CCNP R&S and CCIE R&S LABs
 - [lussier/ciscosnmp](https://github.com/lussier/ciscosnmp) - Monitor Spanning-tree Port Status on Cisco Switches using SNMP with this simple Python script.
 
+## perl 
+
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
+
 ## php 
 
 - [maltris/sappss](https://github.com/maltris/sappss) - This is a simple PHP-script which is using SNMP to switch ports on a APC PDU in a nice and easy way
@@ -618,6 +627,10 @@
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## server 
+
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 
 ## shell 
 
