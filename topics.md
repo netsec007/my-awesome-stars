@@ -185,6 +185,7 @@
 
 ## docker 
 
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -331,6 +332,7 @@
 
 ## laravel 
 
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [ZenNMS/ZenNMS](https://github.com/ZenNMS/ZenNMS) - ZenNMS is a Network Monitoring System written in PHP and made with Laravel
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 
@@ -420,6 +422,7 @@
 
 ## others 
 
+- [midikeyboard/UptimeKumaStatusCSS](https://github.com/midikeyboard/UptimeKumaStatusCSS) - Predefined css templates for status pages
 - [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - The Network Automation Toolkit demonstrates the use of Netmiko and NAPALM, leveraging SSH connections, to automate diverse Cisco device network configurations. This reduces manual setup, leading to fa
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
