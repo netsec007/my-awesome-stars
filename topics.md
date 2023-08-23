@@ -260,6 +260,8 @@
 
 ## hacktoberfest 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -427,9 +429,10 @@
 
 ## others 
 
+- [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [midikeyboard/UptimeKumaStatusCSS](https://github.com/midikeyboard/UptimeKumaStatusCSS) - Predefined css templates for status pages
-- [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - The Network Automation Toolkit demonstrates the use of Netmiko and NAPALM, leveraging SSH connections, to automate diverse Cisco device network configurations. This reduces manual setup, leading to fa
+- [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - The Network Automation Toolkit demonstrates the use of Netmiko and NAPALM to automate diverse Cisco device network configurations.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [marcusjehrlander/librenms-searchendpoint](https://github.com/marcusjehrlander/librenms-searchendpoint) - Simple Python script that gathers and displays information from LibreNMS API and checks for manufacturer via macvendors.com API. Allows input of both IP and MAC-address
@@ -599,6 +602,7 @@
 
 ## raspberry-pi 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
@@ -648,6 +652,7 @@
 
 ## shell 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
