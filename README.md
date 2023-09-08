@@ -430,6 +430,8 @@
 
 ## others 
 
+- [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
+- [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
 - [YunoHost-Apps/ifconfig-io_ynh](https://github.com/YunoHost-Apps/ifconfig-io_ynh) - IP API service
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
