@@ -430,6 +430,7 @@
 
 ## others 
 
+- [gathecageorge/vps-monitoring-prometheus-loki](https://github.com/gathecageorge/vps-monitoring-prometheus-loki) - Allow monitoring a VPS and grafana for dashboards and logs
 - [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 - [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
