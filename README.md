@@ -74,6 +74,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [windows](#windows)
 
 ## ai 
 
@@ -166,6 +167,7 @@
 
 ## cli 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -255,11 +257,13 @@
 
 ## go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## golang 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
@@ -276,6 +280,7 @@
 
 ## hacktoberfest 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
@@ -352,6 +357,7 @@
 
 ## linux 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
@@ -369,6 +375,7 @@
 
 ## macos 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) - Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the para
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -588,6 +595,7 @@
 
 ## python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [SchenkelT/PythonAPC](https://github.com/SchenkelT/PythonAPC) - Python Script for controlling a APC smart PDU using SNMP
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -610,6 +618,7 @@
 
 ## python3 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
 - [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 
@@ -715,6 +724,10 @@
 ## website 
 
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
+
+## windows 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
 
 ## License
