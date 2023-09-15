@@ -191,6 +191,7 @@
 
 ## c 
 
+- [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 
 ## chatgpt 
@@ -231,6 +232,7 @@
 
 ## docker 
 
+- [thakkaryash94/docker-grafana-loki-fluent-bit-sample](https://github.com/thakkaryash94/docker-grafana-loki-fluent-bit-sample) - Grafana Loki sample with Docker and fluent-bit
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
 - [vegasbrianc/docker-monitoring](https://github.com/vegasbrianc/docker-monitoring) - Docker-Monitoring based on Cadvisor, InfluxDB, and Grafana
@@ -463,6 +465,7 @@
 
 ## monitoring 
 
+- [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
@@ -525,6 +528,7 @@
 
 ## others 
 
+- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) - 
 - [thuva4/Useful-Repositories](https://github.com/thuva4/Useful-Repositories) - Manually curated collection of some useful repositories
 - [maxandersen/internet-monitoring](https://github.com/maxandersen/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
 - [gathecageorge/vps-monitoring-prometheus-loki](https://github.com/gathecageorge/vps-monitoring-prometheus-loki) - Allow monitoring a VPS and grafana for dashboards and logs
@@ -690,6 +694,7 @@
 
 ## python 
 
+- [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [SchenkelT/PythonAPC](https://github.com/SchenkelT/PythonAPC) - Python Script for controlling a APC smart PDU using SNMP
