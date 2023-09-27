@@ -25,6 +25,7 @@
 - [documentation](#documentation)
 - [express](#express)
 - [flask](#flask)
+- [flutter](#flutter)
 - [frontend](#frontend)
 - [git](#git)
 - [github](#github)
@@ -81,6 +82,7 @@
 - [server](#server)
 - [shell](#shell)
 - [software](#software)
+- [svelte](#svelte)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [twitter](#twitter)
@@ -239,6 +241,7 @@
 
 ## docker 
 
+- [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring) - A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
@@ -295,6 +298,10 @@
 ## flask 
 
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+
+## flutter 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## frontend 
 
@@ -530,6 +537,7 @@
 
 ## nodejs 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
 - [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
@@ -550,6 +558,10 @@
 
 ## others 
 
+- [ironicbadger/awesome-home-assistant](https://github.com/ironicbadger/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+- [ironicbadger/docker-librespeed](https://github.com/ironicbadger/docker-librespeed) - 
+- [ironicbadger/bootlace](https://github.com/ironicbadger/bootlace) - A simple Python app to send a push notification via the Pushover API
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
 - [jez500/bender](https://github.com/jez500/bender) - A link dashboard that can be managed completely via the browser
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [pedrocesarti/internet-speedtest-docker](https://github.com/pedrocesarti/internet-speedtest-docker) - Internet testing running on Docker Compose.
@@ -797,6 +809,7 @@
 
 ## self-hosted 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
@@ -835,6 +848,10 @@
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+
+## svelte 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## swiftui 
 
