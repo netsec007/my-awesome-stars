@@ -131,6 +131,8 @@
 
 ## awesome 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
@@ -158,6 +160,7 @@
 
 ## awesome-list 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
@@ -316,6 +319,7 @@
 
 ## github 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -351,6 +355,7 @@
 
 ## hacktoberfest 
 
+- [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
 - [Ashish-khanagwal/Open-source-practice-and-resources](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources) - best resources for the community & home of Open Source
@@ -479,6 +484,8 @@
 
 ## markdown 
 
+- [darsaveli/Readme-Markdown-Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - 🔥 The Best, Complete Guide to Master Markdown Syntax & Create Awesome READMEs😈
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
 
 ## mastodon 
@@ -558,6 +565,9 @@
 
 ## others 
 
+- [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+- [MikeCodesDotNET/ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges) - Some badges I created for my GitHub profile readme.
 - [ironicbadger/awesome-home-assistant](https://github.com/ironicbadger/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [ironicbadger/docker-librespeed](https://github.com/ironicbadger/docker-librespeed) - 
 - [ironicbadger/bootlace](https://github.com/ironicbadger/bootlace) - A simple Python app to send a push notification via the Pushover API
