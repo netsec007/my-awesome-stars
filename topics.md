@@ -40,6 +40,7 @@
 - [homebridge](#homebridge)
 - [icon-font](#icon-font)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -412,6 +413,10 @@
 
 - [colin-mccarthy/ansible-playbooks-for-cisco-ios](https://github.com/colin-mccarthy/ansible-playbooks-for-cisco-ios) - 🚀⚡️ Ansible playbook examples for Cisco IOS devices 🔥
 - [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
+
+## iot 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
 ## java 
 
