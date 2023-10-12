@@ -219,6 +219,7 @@
 
 ## docker 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
@@ -523,6 +524,8 @@
 
 ## others 
 
+- [OliverHi/smarthomeserver](https://github.com/OliverHi/smarthomeserver) - A simple setup for your own smart home server (on a Raspberry Pi)
+- [YouMightNotNeedKubernetes/dockerswarm-monitoring-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide) - A documentation on how to get started with Docker Swarm Monitoring
 - [netsec007/netsec007](https://github.com/netsec007/netsec007) - My Dev Workspace
 - [netsec007/cisco-cmds](https://github.com/netsec007/cisco-cmds) - Cisco Commands Cheatsheet
 - [BeryJu/hass-auth-header](https://github.com/BeryJu/hass-auth-header) - Home Assistant custom component, which allows you to delegate authentication to a reverse proxy.
