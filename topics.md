@@ -612,7 +612,6 @@
 - [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [midikeyboard/UptimeKumaStatusCSS](https://github.com/midikeyboard/UptimeKumaStatusCSS) - Predefined css templates for status pages
-- [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - Speed Up and automate various network configurations of Cisco devices using NAPALM and Netmiko in GNS3 or Real network.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [marcusjehrlander/librenms-searchendpoint](https://github.com/marcusjehrlander/librenms-searchendpoint) - Simple Python script that gathers and displays information from LibreNMS API and checks for manufacturer via macvendors.com API. Allows input of both IP and MAC-address
@@ -791,6 +790,7 @@
 ## python3 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - Speed Up and automate various network configurations of Cisco devices using NAPALM and Netmiko in GNS3 or Real network.
 - [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
 - [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 
