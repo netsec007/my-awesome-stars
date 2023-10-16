@@ -249,6 +249,7 @@
 
 ## docker 
 
+- [vikbert/docker-keycloak-sso](https://github.com/vikbert/docker-keycloak-sso) - A proof of concept "Single sign-on" with keycloak server container instance.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
@@ -365,6 +366,7 @@
 
 ## hacktoberfest 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
@@ -496,6 +498,7 @@
 
 ## markdown 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [darsaveli/Readme-Markdown-Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - 🔥 The Best, Complete Guide to Master Markdown Syntax & Create Awesome READMEs😈
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
@@ -539,6 +542,7 @@
 
 ## mysql 
 
+- [vikbert/docker-keycloak-sso](https://github.com/vikbert/docker-keycloak-sso) - A proof of concept "Single sign-on" with keycloak server container instance.
 - [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
