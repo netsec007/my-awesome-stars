@@ -583,6 +583,8 @@
 
 ## others 
 
+- [geerlingguy/my-backup-plan](https://github.com/geerlingguy/my-backup-plan) - How I back up all my data.
+- [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas
 - [OliverHi/smarthomeserver](https://github.com/OliverHi/smarthomeserver) - A simple setup for your own smart home server (on a Raspberry Pi)
 - [YouMightNotNeedKubernetes/dockerswarm-monitoring-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide) - A documentation on how to get started with Docker Swarm Monitoring
