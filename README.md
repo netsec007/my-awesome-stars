@@ -221,6 +221,8 @@
 
 ## docker 
 
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [t0mer/DeCompose](https://github.com/t0mer/DeCompose) - DeCompose is FastAPI based application helps us to generate docker-compose file from existing containers
 - [vikbert/docker-keycloak-sso](https://github.com/vikbert/docker-keycloak-sso) - A proof of concept "Single sign-on" with keycloak server container instance.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -716,6 +718,7 @@
 
 ## python 
 
+- [t0mer/DeCompose](https://github.com/t0mer/DeCompose) - DeCompose is FastAPI based application helps us to generate docker-compose file from existing containers
 - [lopsided98/dnsupdate](https://github.com/lopsided98/dnsupdate) - The last dynamic DNS client you'll ever need
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
