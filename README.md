@@ -139,6 +139,7 @@
 
 ## awesome-list 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
@@ -537,7 +538,7 @@
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync) - 🛡️ Synchronize AdGuard Home config to replicas
 - [OliverHi/smarthomeserver](https://github.com/OliverHi/smarthomeserver) - A simple setup for your own smart home server (on a Raspberry Pi)
-- [YouMightNotNeedKubernetes/dockerswarm-monitoring-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide) - A documentation on how to get started with Docker Swarm Monitoring
+- [YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide) - A documentation on how to get started with Docker Swarm Monitoring
 - [netsec007/netsec007](https://github.com/netsec007/netsec007) - My Dev Workspace
 - [netsec007/cisco-cmds](https://github.com/netsec007/cisco-cmds) - Cisco Commands Cheatsheet
 - [BeryJu/hass-auth-header](https://github.com/BeryJu/hass-auth-header) - Home Assistant custom component, which allows you to delegate authentication to a reverse proxy.
@@ -710,6 +711,7 @@
 
 ## programming 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Ashish-khanagwal/Open-source-practice-and-resources](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources) - best resources for the community & home of Open Source
 
 ## pwa 
