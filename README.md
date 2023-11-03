@@ -539,6 +539,7 @@
 
 ## others 
 
+- [TomDeneire/dotfiles](https://github.com/TomDeneire/dotfiles) - 
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [linuxserver/docker-series-troxide](https://github.com/linuxserver/docker-series-troxide) - Web accessible Series Troxide inside a Debian Container
 - [geerlingguy/my-backup-plan](https://github.com/geerlingguy/my-backup-plan) - How I back up all my data.
