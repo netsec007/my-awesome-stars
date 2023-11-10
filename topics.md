@@ -49,6 +49,7 @@
 - [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
+- [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -493,6 +494,10 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 
+## lua 
+
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
+
 ## machine-learning 
 
 - [Ashish-khanagwal/Open-source-practice-and-resources](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources) - best resources for the community & home of Open Source
@@ -566,6 +571,7 @@
 
 ## neovim 
 
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## nextjs 
@@ -970,6 +976,7 @@
 
 ## vim 
 
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [victory-sokolov/dotfiles](https://github.com/victory-sokolov/dotfiles) - 👨‍💻  My Dotfiles Configs
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
