@@ -107,7 +107,7 @@
 
 ## analytics 
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## android 
@@ -535,7 +535,7 @@
 
 ## monitoring 
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring) - A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
@@ -608,6 +608,7 @@
 
 ## others 
 
+- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [TomDeneire/dotfiles](https://github.com/TomDeneire/dotfiles) - 
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [linuxserver/docker-series-troxide](https://github.com/linuxserver/docker-series-troxide) - Web accessible Series Troxide inside a Debian Container
@@ -863,7 +864,7 @@
 
 ## rust 
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
