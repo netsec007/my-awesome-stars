@@ -41,6 +41,7 @@
 - [homebridge](#homebridge)
 - [icon-font](#icon-font)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -129,6 +130,8 @@
 
 ## automation 
 
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 - [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
@@ -254,6 +257,7 @@
 
 ## docker 
 
+- [RafhaanShah/Container-Mon](https://github.com/RafhaanShah/Container-Mon) - Get notified when your Docker containers are unhealthy
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -359,6 +363,7 @@
 
 ## go 
 
+- [RafhaanShah/Container-Mon](https://github.com/RafhaanShah/Container-Mon) - Get notified when your Docker containers are unhealthy
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -383,6 +388,8 @@
 
 ## hacktoberfest 
 
+- [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -418,6 +425,9 @@
 
 ## home-assistant 
 
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
@@ -430,6 +440,7 @@
 
 ## homebridge 
 
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 
 ## icon-font 
@@ -440,6 +451,10 @@
 
 - [colin-mccarthy/ansible-playbooks-for-cisco-ios](https://github.com/colin-mccarthy/ansible-playbooks-for-cisco-ios) - 🚀⚡️ Ansible playbook examples for Cisco IOS devices 🔥
 - [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
+
+## iot 
+
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 
 ## java 
 
@@ -615,6 +630,8 @@
 
 ## others 
 
+- [DubhAd/Home-AssistantConfig](https://github.com/DubhAd/Home-AssistantConfig) - My Home Assistant configuration files
+- [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [TomDeneire/dotfiles](https://github.com/TomDeneire/dotfiles) - 
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
@@ -841,6 +858,7 @@
 
 ## raspberry-pi 
 
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring) - A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
