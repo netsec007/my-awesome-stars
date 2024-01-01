@@ -621,7 +621,7 @@
 - [ironicbadger/awesome-home-assistant](https://github.com/ironicbadger/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [ironicbadger/docker-librespeed](https://github.com/ironicbadger/docker-librespeed) - 
 - [ironicbadger/bootlace](https://github.com/ironicbadger/bootlace) - A simple Python app to send a push notification via the Pushover API
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.8% less leaked credentials
 - [jez500/bender](https://github.com/jez500/bender) - A link dashboard that can be managed completely via the browser
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [pedrocesarti/internet-speedtest-docker](https://github.com/pedrocesarti/internet-speedtest-docker) - Internet testing running on Docker Compose.
