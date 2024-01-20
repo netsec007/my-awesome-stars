@@ -54,6 +54,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -571,6 +572,11 @@
 - [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+
+## neovim 
+
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## nextjs 
 
