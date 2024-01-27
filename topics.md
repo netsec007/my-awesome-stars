@@ -663,6 +663,7 @@
 
 ## open-source 
 
+- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
@@ -675,6 +676,9 @@
 
 ## others 
 
+- [docker-flow/docker-flow-monitor](https://github.com/docker-flow/docker-flow-monitor) - 
+- [julianpoy/RecipeSage-selfhost](https://github.com/julianpoy/RecipeSage-selfhost) - A collection of configuration files to host your own private instance of RecipeSage for personal use.
+- [netsec007/health-stats](https://github.com/netsec007/health-stats) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 - [dwin/tailscale-webhook-proxy](https://github.com/dwin/tailscale-webhook-proxy) - Cloudflare Worker to receive Tailscale webhooks and forward to notification service such as Pushover
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [home-assistant-libs/python-matter-server](https://github.com/home-assistant-libs/python-matter-server) - Python server to interact with Matter
