@@ -607,6 +607,7 @@
 
 ## others 
 
+- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [docker-flow/docker-flow-monitor](https://github.com/docker-flow/docker-flow-monitor) - 
 - [julianpoy/RecipeSage-selfhost](https://github.com/julianpoy/RecipeSage-selfhost) - A collection of configuration files to host your own private instance of RecipeSage for personal use.
 - [netsec007/health-stats](https://github.com/netsec007/health-stats) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
