@@ -51,6 +51,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -69,7 +70,9 @@
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redux](#redux)
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
@@ -531,6 +534,10 @@
 
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 
+## mobile 
+
+- [ahnafalfariza/MoviesDaily](https://github.com/ahnafalfariza/MoviesDaily) - Movies and TV Show mobile application. Built using react native.
+
 ## mongodb 
 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -586,6 +593,7 @@
 
 ## nodejs 
 
+- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -607,6 +615,9 @@
 
 ## others 
 
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
+- [fuocy/moonlight-films](https://github.com/fuocy/moonlight-films) - Moonlight | Hot TV Show/Movie Watching Website.
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [docker-flow/docker-flow-monitor](https://github.com/docker-flow/docker-flow-monitor) - 
 - [julianpoy/RecipeSage-selfhost](https://github.com/julianpoy/RecipeSage-selfhost) - A collection of configuration files to host your own private instance of RecipeSage for personal use.
@@ -808,6 +819,7 @@
 
 ## pwa 
 
+- [jasonujmaalvis/vue-movies](https://github.com/jasonujmaalvis/vue-movies) - PWA featuring movies and tv shows using the TMDb API.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## python 
@@ -860,6 +872,7 @@
 
 ## react 
 
+- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [SamTV12345/PodFetch](https://github.com/SamTV12345/PodFetch) - A sleek and efficient podcast downloader.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -868,10 +881,19 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
+## react-native 
+
+- [ahnafalfariza/MoviesDaily](https://github.com/ahnafalfariza/MoviesDaily) - Movies and TV Show mobile application. Built using react native.
+
 ## reactjs 
 
+- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
+
+## redux 
+
+- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 
 ## rust 
 
