@@ -617,6 +617,7 @@
 
 ## others 
 
+- [netdata/community](https://github.com/netdata/community) - Netdata-powered applications and examples. For the community, by the community.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [fuocy/moonlight-films](https://github.com/fuocy/moonlight-films) - Moonlight | Hot TV Show/Movie Watching Website.
