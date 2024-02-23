@@ -175,7 +175,7 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 ## awesome-list 
 
@@ -921,7 +921,7 @@
 - [CiscoDevNet/python_code_samples_network](https://github.com/CiscoDevNet/python_code_samples_network) - A collection of Python Code Samples for Network Management.  Includes samples to run on-box and off-box.
 - [CiscoDevNet/coding-skills-sample-code](https://github.com/CiscoDevNet/coding-skills-sample-code) - Sample code for the Cisco DevNet Coding Skills Learning Labs
 - [trehn/hnmp](https://github.com/trehn/hnmp) - High-level Python SNMP library
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
 - [jj46/cisco_acl](https://github.com/jj46/cisco_acl) - Python module for working with Cisco ACLs
 - [mikepitagno/asa_cleanup](https://github.com/mikepitagno/asa_cleanup) - Cisco ASA Firewall Cleanup Script.
