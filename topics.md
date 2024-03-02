@@ -97,6 +97,7 @@
 - [svelte](#svelte)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [twitter](#twitter)
@@ -402,6 +403,7 @@
 
 ## golang 
 
+- [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -694,6 +696,7 @@
 
 ## others 
 
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [netdata/community](https://github.com/netdata/community) - Netdata-powered applications and examples. For the community, by the community.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
@@ -1002,6 +1005,7 @@
 
 ## security 
 
+- [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1015,6 +1019,7 @@
 
 ## self-hosted 
 
+- [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. No pre-pull, selective, notify, prune.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -1080,6 +1085,10 @@
 ## symfony 
 
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
+
+## telegram 
+
+- [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 
 ## terminal 
 
