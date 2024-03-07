@@ -31,6 +31,7 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [frontend](#frontend)
+- [games](#games)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -94,6 +95,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
@@ -281,6 +283,10 @@
 
 ## docker 
 
+- [Palleri/dockcheck-web](https://github.com/Palleri/dockcheck-web) - A webpage showing available image updates for your running containers.
+- [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
+- [LucasACH/raspberry-pi-media-server](https://github.com/LucasACH/raspberry-pi-media-server) - Raspberry Pi Media Server setup with hardware live metrics, file sharing and remote access. Clone the repo into your Pi and start deploying services using docker-compose.
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. No pre-pull, selective, notify, prune.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -370,6 +376,10 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
+## games 
+
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+
 ## git 
 
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
@@ -396,6 +406,7 @@
 
 ## go 
 
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [RafhaanShah/Container-Mon](https://github.com/RafhaanShah/Container-Mon) - Get notified when your Docker containers are unhealthy
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -404,6 +415,7 @@
 
 ## golang 
 
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -697,6 +709,8 @@
 
 ## others 
 
+- [Palleri/DCW](https://github.com/Palleri/DCW) - 
+- [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [netdata/community](https://github.com/netdata/community) - Netdata-powered applications and examples. For the community, by the community.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
@@ -915,6 +929,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [t0mer/DeCompose](https://github.com/t0mer/DeCompose) - DeCompose is FastAPI based application helps us to generate docker-compose file from existing containers
 - [lopsided98/dnsupdate](https://github.com/lopsided98/dnsupdate) - The last dynamic DNS client you'll ever need
@@ -950,6 +965,7 @@
 
 ## raspberry-pi 
 
+- [LucasACH/raspberry-pi-media-server](https://github.com/LucasACH/raspberry-pi-media-server) - Raspberry Pi Media Server setup with hardware live metrics, file sharing and remote access. Clone the repo into your Pi and start deploying services using docker-compose.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
@@ -1020,6 +1036,7 @@
 
 ## self-hosted 
 
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. No pre-pull, selective, notify, prune.
@@ -1075,8 +1092,13 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
+## sqlite 
+
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+
 ## svelte 
 
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## swiftui 
