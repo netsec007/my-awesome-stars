@@ -25,6 +25,7 @@
 - [express](#express)
 - [flask](#flask)
 - [flutter](#flutter)
+- [framework](#framework)
 - [frontend](#frontend)
 - [games](#games)
 - [git](#git)
@@ -73,7 +74,6 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
-- [redux](#redux)
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
@@ -329,6 +329,10 @@
 ## flutter 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+
+## framework 
+
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 
 ## frontend 
 
@@ -616,7 +620,6 @@
 ## nodejs 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
-- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -639,6 +642,7 @@
 
 ## others 
 
+- [Palleri/DCW-exporter](https://github.com/Palleri/DCW-exporter) - 
 - [Palleri/DCW](https://github.com/Palleri/DCW) - 
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
@@ -853,6 +857,7 @@
 
 ## python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [t0mer/DeCompose](https://github.com/t0mer/DeCompose) - DeCompose is FastAPI based application helps us to generate docker-compose file from existing containers
@@ -903,7 +908,6 @@
 
 ## react 
 
-- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [SamTV12345/PodFetch](https://github.com/SamTV12345/PodFetch) - A sleek and efficient podcast downloader.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -918,13 +922,8 @@
 
 ## reactjs 
 
-- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
-
-## redux 
-
-- [joshwcomeau/Tello](https://github.com/joshwcomeau/Tello) - 🐣 A simple and delightful way to track and manage TV shows.
 
 ## rust 
 
