@@ -147,6 +147,7 @@
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 - [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
@@ -154,6 +155,8 @@
 
 ## awesome 
 
+- [tungbq/awesome-workflow](https://github.com/tungbq/awesome-workflow) - :octocat: Awesome lists about GitHub workflows to automate your development workflow
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -268,6 +271,7 @@
 
 ## devops 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Ashish-khanagwal/Open-source-practice-and-resources](https://github.com/Ashish-khanagwal/Open-source-practice-and-resources) - best resources for the community & home of Open Source
 - [gpulido/SwarmAlert](https://github.com/gpulido/SwarmAlert) - Monitor docker Swarm services and sends a pushover notification if anyone is down
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
@@ -393,6 +397,7 @@
 
 ## github 
 
+- [tungbq/awesome-workflow](https://github.com/tungbq/awesome-workflow) - :octocat: Awesome lists about GitHub workflows to automate your development workflow
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
