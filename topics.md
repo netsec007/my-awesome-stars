@@ -717,6 +717,7 @@
 
 ## others 
 
+- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 v3 Prerelease is now available, Enable Beta Versions in HACS. ---- iCloud3 is an advanced iDevice tracker that uses Apple iCloud account and HA Companion App data for presence detection and lo
 - [Palleri/DCW-exporter](https://github.com/Palleri/DCW-exporter) - 
 - [Palleri/DCW](https://github.com/Palleri/DCW) - 
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
