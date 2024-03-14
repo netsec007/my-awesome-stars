@@ -647,6 +647,7 @@
 
 ## others 
 
+- [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 v3 Prerelease is now available, Enable Beta Versions in HACS. ---- iCloud3 is an advanced iDevice tracker that uses Apple iCloud account and HA Companion App data for presence detection and lo
 - [Palleri/DCW-exporter](https://github.com/Palleri/DCW-exporter) - 
 - [Palleri/DCW](https://github.com/Palleri/DCW) - 
