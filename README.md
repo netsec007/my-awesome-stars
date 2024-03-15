@@ -340,6 +340,7 @@
 
 ## frontend 
 
+- [Makin-Things/platinum-weather-card](https://github.com/Makin-Things/platinum-weather-card) - This is a fully customisable weather card for Home Assistant with a graphical configuration.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
@@ -459,6 +460,7 @@
 
 ## ios 
 
+- [pkissling/clock-weather-card](https://github.com/pkissling/clock-weather-card) - A Home Assistant Card indicating today's date/time, along with an iOS inspired weather forecast for the next days with animated icons
 - [colin-mccarthy/ansible-playbooks-for-cisco-ios](https://github.com/colin-mccarthy/ansible-playbooks-for-cisco-ios) - 🚀⚡️ Ansible playbook examples for Cisco IOS devices 🔥
 - [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 
@@ -647,6 +649,9 @@
 
 ## others 
 
+- [thomasmaxson/Home-Assistant-Configuration](https://github.com/thomasmaxson/Home-Assistant-Configuration) - Home Assistant Configuration files.
+- [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 v3 Prerelease is now available, Enable Beta Versions in HACS. ---- iCloud3 is an advanced iDevice tracker that uses Apple iCloud account and HA Companion App data for presence detection and lo
 - [Palleri/DCW-exporter](https://github.com/Palleri/DCW-exporter) - 
