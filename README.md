@@ -291,7 +291,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [beeyev/phpmyadmin-docker-lightweight](https://github.com/beeyev/phpmyadmin-docker-lightweight) - Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
@@ -965,7 +965,7 @@
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
