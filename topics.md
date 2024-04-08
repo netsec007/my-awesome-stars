@@ -66,6 +66,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -682,6 +683,10 @@
 
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+
+## nestjs 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## nextjs 
 
