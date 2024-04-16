@@ -52,7 +52,6 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
-- [mastodon](#mastodon)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -93,7 +92,6 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
-- [wordpress](#wordpress)
 
 ## ai 
 
@@ -134,6 +132,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -165,6 +164,7 @@
 - [0xRitesh/awesome-repositories](https://github.com/0xRitesh/awesome-repositories) - Useful GitHub Repos That Every Developer Should Follow
 - [szabgab/awesome-lists](https://github.com/szabgab/awesome-lists) - The awesome list of all the awesome lists
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -206,6 +206,7 @@
 
 ## c 
 
+- [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 
@@ -519,6 +520,7 @@
 
 ## linux 
 
+- [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [flo-at/minmon](https://github.com/flo-at/minmon) - MinMon - an opinionated minimal monitoring and alarming tool
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -569,10 +571,6 @@
 - [darsaveli/Readme-Markdown-Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - 🔥 The Best, Complete Guide to Master Markdown Syntax & Create Awesome READMEs😈
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
-
-## mastodon 
-
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 
 ## mobile 
 
@@ -1082,10 +1080,6 @@
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-
-## wordpress 
-
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
 
 
 ## License
