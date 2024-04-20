@@ -15,6 +15,7 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [cybersecurity](#cybersecurity)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [devops](#devops)
@@ -223,6 +224,10 @@
 - [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [linickx/crassh](https://github.com/linickx/crassh) - Cisco Remote Automation via SSH
+
+## cybersecurity 
+
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
 ## data-visualization 
 
