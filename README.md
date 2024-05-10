@@ -263,7 +263,7 @@
 ## docker 
 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A selfhosted dashboard that puts all your feeds in one place
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [aceberg/miniboard](https://github.com/aceberg/miniboard) - Lightweight dashboard with tabs, uptime monitoring and notifications
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
@@ -410,7 +410,7 @@
 
 ## golang 
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A selfhosted dashboard that puts all your feeds in one place
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Jipok/Jauth](https://github.com/Jipok/Jauth) - Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps
