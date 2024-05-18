@@ -763,6 +763,7 @@
 
 ## others 
 
+- [cloudinary-community/photobox](https://github.com/cloudinary-community/photobox) - Photo library and interactive editor built with Next.js & Cloudinary
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [SimplyMinimal/tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper) - A visual way to view your ACL rules for Tailscale
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
