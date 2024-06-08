@@ -681,6 +681,8 @@
 
 ## others 
 
+- [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A series of scripts that will install a reverse proxy as well as configure authelia automatically.
+- [nylonee/watchlistarr](https://github.com/nylonee/watchlistarr) - Customizable sync of Plex Watchlist to Sonarr/Radarr
 - [LionCityGaming/recently-added](https://github.com/LionCityGaming/recently-added) - A widget for Homepage (https://gethomepage.dev/) that displays recently-added items for Plex.
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
