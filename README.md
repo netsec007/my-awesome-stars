@@ -707,7 +707,7 @@
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [netdata/community](https://github.com/netdata/community) - Netdata-powered applications and examples. For the community, by the community.
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [fuocy/moonlight-films](https://github.com/fuocy/moonlight-films) - Moonlight | Hot TV Show/Movie Watching Website.
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
