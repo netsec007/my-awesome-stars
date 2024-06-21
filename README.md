@@ -687,7 +687,7 @@
 - [LionCityGaming/recently-added](https://github.com/LionCityGaming/recently-added) - A widget for Homepage (https://gethomepage.dev/) that displays recently-added items for Plex.
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
-- [cloudinary-community/photobox](https://github.com/cloudinary-community/photobox) - Photo library and interactive editor built with Next.js & Cloudinary
+- [cloudinary-community/photocrate](https://github.com/cloudinary-community/photocrate) - Photo library and interactive editor built with Next.js & Cloudinary
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
