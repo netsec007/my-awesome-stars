@@ -104,7 +104,6 @@
 - [symfony](#symfony)
 - [telegram](#telegram)
 - [terminal](#terminal)
-- [terraform](#terraform)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -133,7 +132,6 @@
 
 ## ansible 
 
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
 - [syedur-rahman/networkcoder](https://github.com/syedur-rahman/networkcoder) - 🔧 Project-based approach to network automation.
 - [network-automation/ansible-napalm-samples](https://github.com/network-automation/ansible-napalm-samples) - GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Arista vEOS
@@ -1202,10 +1200,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-
-## terraform 
-
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
 ## twitter 
 
