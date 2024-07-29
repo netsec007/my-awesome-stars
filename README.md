@@ -947,7 +947,6 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [WilliamMarti/cisco-acl-audit](https://github.com/WilliamMarti/cisco-acl-audit) - Way to clean up ACLs on Routers/L3 Switches
 - [cober2019/Network-Automation](https://github.com/cober2019/Network-Automation) - Cisco ACI, Firepower, Meraki, NETCONF, and SQL Python Programs
-- [routetehpacketz/cisco-ip-trace](https://github.com/routetehpacketz/cisco-ip-trace) - Trace IP addresses to edge Cisco switch port
 - [network-evolution/Python_for_Network_Engineers](https://github.com/network-evolution/Python_for_Network_Engineers) - This repo contains Scripts which are explained in the youtube Channel https://www.youtube.com/c/NetworkEvolution/videos?sub_confirmation=1
 - [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
