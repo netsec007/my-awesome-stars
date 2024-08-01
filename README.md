@@ -619,6 +619,7 @@
 ## monitoring 
 
 - [ruanbekker/docker-monitoring-stack-gpnc](https://github.com/ruanbekker/docker-monitoring-stack-gpnc) - Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack
+- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [flo-at/minmon](https://github.com/flo-at/minmon) - MinMon - an opinionated minimal monitoring and alarming tool
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -695,7 +696,6 @@
 
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Sync with YouTube channels on a schedule through yt-dlp.
-- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [denmark111/esp32ServerMon](https://github.com/denmark111/esp32ServerMon) - 
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A series of scripts that will install a reverse proxy as well as configure authelia automatically.
