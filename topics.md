@@ -773,6 +773,7 @@
 
 ## others 
 
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Sync with YouTube channels on a schedule through yt-dlp.
 - [denmark111/esp32ServerMon](https://github.com/denmark111/esp32ServerMon) - 
