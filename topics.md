@@ -773,6 +773,7 @@
 
 ## others 
 
+- [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station) - 
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Sync with YouTube channels on a schedule through yt-dlp.
@@ -1123,6 +1124,7 @@
 
 ## self-hosted 
 
+- [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts) - Open ports inventory for local servers. Exports data to InfluxDB2/Grafana
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp. Designed to be self-hosted.
