@@ -137,6 +137,7 @@
 
 ## ansible 
 
+- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [LaurentDumont/ansible-librenms](https://github.com/LaurentDumont/ansible-librenms) - Ansible role to deploy the LibreNMS monitoring platform.
 - [syedur-rahman/networkcoder](https://github.com/syedur-rahman/networkcoder) - 🔧 Project-based approach to network automation.
 - [network-automation/ansible-napalm-samples](https://github.com/network-automation/ansible-napalm-samples) - GitHub Repo comparing NAPALM and Ansible on Cisco NXOSv and Arista vEOS
@@ -305,6 +306,7 @@
 
 ## docker 
 
+- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [ruanbekker/docker-monitoring-stack-gpnc](https://github.com/ruanbekker/docker-monitoring-stack-gpnc) - Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
@@ -785,6 +787,7 @@
 
 ## others 
 
+- [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [damienhaynes/TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
