@@ -85,6 +85,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [swiftui](#swiftui)
 - [symfony](#symfony)
 - [telegram](#telegram)
 - [terminal](#terminal)
@@ -1083,6 +1084,10 @@
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+
+## swiftui 
+
+- [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
 ## symfony 
 
