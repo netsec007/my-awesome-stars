@@ -49,6 +49,7 @@
 - [homebrew](#homebrew)
 - [homebridge](#homebridge)
 - [icon-font](#icon-font)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -571,6 +572,11 @@
 ## icon-font 
 
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
+
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 
 ## ios 
 
