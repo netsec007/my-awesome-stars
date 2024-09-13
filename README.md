@@ -713,6 +713,7 @@
 
 ## others 
 
+- [selfhst/icons](https://github.com/selfhst/icons) - Collection of icons and logos maintained by the selfh.st team
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
