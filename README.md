@@ -723,6 +723,7 @@
 
 ## others 
 
+- [eloymelo/linux-documentation](https://github.com/eloymelo/linux-documentation) - A gathering of guides/settings that I use on my linux machine.
 - [selfhst/icons](https://github.com/selfhst/icons) - Collection of icons and logos maintained by the selfh.st team
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
