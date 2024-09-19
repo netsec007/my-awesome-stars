@@ -76,6 +76,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -489,7 +490,7 @@
 
 - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp. Designed to be self-hosted.
+- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -807,6 +808,10 @@
 - [open-source-labs/Docketeer](https://github.com/open-source-labs/Docketeer) - A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+
+## openai 
+
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 
 ## osint 
 
@@ -1189,7 +1194,7 @@
 - [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts) - Open ports inventory for local servers. Exports data to InfluxDB2/Grafana
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp. Designed to be self-hosted.
+- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
