@@ -471,6 +471,7 @@
 
 ## hacktoberfest 
 
+- [jamesread/uncomplicated-alert-receiver](https://github.com/jamesread/uncomplicated-alert-receiver) - Takes alerts from Prometheus Alertmanager, and shows them on a webpage for heads up displays. No-Nonsense.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs
@@ -653,6 +654,7 @@
 
 ## monitoring 
 
+- [jamesread/uncomplicated-alert-receiver](https://github.com/jamesread/uncomplicated-alert-receiver) - Takes alerts from Prometheus Alertmanager, and shows them on a webpage for heads up displays. No-Nonsense.
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [Svedrin/meshping](https://github.com/Svedrin/meshping) - Pings a number of targets at once, collecting their response times in histograms. Deploy at strategic points in your network to detect weak links and gain insight to your network's topology.
 - [ruanbekker/docker-monitoring-stack-gpnc](https://github.com/ruanbekker/docker-monitoring-stack-gpnc) - Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack
@@ -736,6 +738,7 @@
 
 ## others 
 
+- [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager) - A simple web app to help you keep track of your subscriptions and manage your expenses.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [need4swede/Portall](https://github.com/need4swede/Portall) - Port Management Interface
 - [eloymelo/linux-documentation](https://github.com/eloymelo/linux-documentation) - A gathering of guides/settings that I use on my linux machine.
