@@ -850,7 +850,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station) - 
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
-- [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule.
+- [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule via yt-dlp.
 - [denmark111/esp32ServerMon](https://github.com/denmark111/esp32ServerMon) - 
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A series of scripts that will install a reverse proxy as well as configure authelia automatically.
 - [nylonee/watchlistarr](https://github.com/nylonee/watchlistarr) - Customizable sync of Plex Watchlist to Sonarr/Radarr
