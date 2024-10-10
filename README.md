@@ -756,7 +756,7 @@
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station) - 
 - [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts) - Open ports inventory for local servers. Exports data to InfluxDB2/Grafana
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
-- [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule.
+- [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule via yt-dlp.
 - [denmark111/esp32ServerMon](https://github.com/denmark111/esp32ServerMon) - 
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A series of scripts that will install a reverse proxy as well as configure authelia automatically.
 - [nylonee/watchlistarr](https://github.com/nylonee/watchlistarr) - Customizable sync of Plex Watchlist to Sonarr/Radarr
