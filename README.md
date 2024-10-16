@@ -742,6 +742,7 @@
 
 ## others 
 
+- [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [dominikhoebert/docker-projects](https://github.com/dominikhoebert/docker-projects) - 
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
