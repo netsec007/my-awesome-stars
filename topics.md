@@ -838,6 +838,7 @@
 
 ## others 
 
+- [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [dominikhoebert/docker-projects](https://github.com/dominikhoebert/docker-projects) - 
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager) - A simple web app to help you keep track of your subscriptions and manage your expenses.
