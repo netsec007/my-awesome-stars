@@ -838,6 +838,8 @@
 
 ## others 
 
+- [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [dominikhoebert/docker-projects](https://github.com/dominikhoebert/docker-projects) - 
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
