@@ -483,6 +483,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
+- [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [SamTV12345/PodFetch](https://github.com/SamTV12345/PodFetch) - A sleek and efficient podcast downloader.
@@ -518,7 +519,6 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) - 
