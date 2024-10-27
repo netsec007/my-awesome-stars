@@ -304,6 +304,7 @@
 
 ## docker 
 
+- [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
@@ -495,6 +496,8 @@
 
 ## hacktoberfest 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [jamesread/uncomplicated-alert-receiver](https://github.com/jamesread/uncomplicated-alert-receiver) - Takes alerts from Prometheus Alertmanager, and shows them on a webpage for heads up displays. No-Nonsense.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -772,6 +775,7 @@
 
 ## others 
 
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [JesusMiramontes/Heartbeatrr](https://github.com/JesusMiramontes/Heartbeatrr) - 
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
@@ -1036,6 +1040,7 @@
 
 ## python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RileyXX/IMDB-Trakt-Syncer](https://github.com/RileyXX/IMDB-Trakt-Syncer) - A python script that syncs user watchlist, ratings and reviews for Movies, TV Shows and Episodes both ways between Trakt and IMDB.
