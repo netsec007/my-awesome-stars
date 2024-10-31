@@ -51,6 +51,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -582,6 +583,11 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## jekyll 
+
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
+- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
+
+## jekyll-theme 
 
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
