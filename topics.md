@@ -871,6 +871,7 @@
 
 ## others 
 
+- [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [loganmarchione/docker-php-startpage](https://github.com/loganmarchione/docker-php-startpage) - Runs a PHP-based startpage in Docker
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [JesusMiramontes/Heartbeatrr](https://github.com/JesusMiramontes/Heartbeatrr) - 
