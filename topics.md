@@ -355,6 +355,7 @@
 
 ## docker 
 
+- [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch) - Automated Container Management and Notifications w/ beautiful WebUI
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
