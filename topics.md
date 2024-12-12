@@ -587,6 +587,7 @@
 
 ## hacktoberfest 
 
+- [j4n-e4t/deletr](https://github.com/j4n-e4t/deletr) - Delete your online accounts with one click!
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
 - [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) - 
@@ -1206,6 +1207,7 @@
 
 ## privacy 
 
+- [j4n-e4t/deletr](https://github.com/j4n-e4t/deletr) - Delete your online accounts with one click!
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -1325,6 +1327,7 @@
 
 ## security 
 
+- [j4n-e4t/deletr](https://github.com/j4n-e4t/deletr) - Delete your online accounts with one click!
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io) - portchecker.io is a free online utility to check the port status of a given hostname or IP address.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
