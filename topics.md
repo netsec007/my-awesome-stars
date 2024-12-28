@@ -952,6 +952,7 @@
 
 ## others 
 
+- [anandslab/deployarr](https://github.com/anandslab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [bobrik/docker-socat](https://github.com/bobrik/docker-socat) - Minimal docker image for Socat
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
