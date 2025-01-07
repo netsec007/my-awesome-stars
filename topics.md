@@ -926,7 +926,7 @@
 
 ## npm 
 
-- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
 
 ## open-source 
 
