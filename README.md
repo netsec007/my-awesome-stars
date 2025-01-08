@@ -521,7 +521,7 @@
 ## good-first-issue 
 
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
-- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 
 ## graphql 
 
@@ -593,6 +593,7 @@
 - [linuxserver/docker-syslog-ng](https://github.com/linuxserver/docker-syslog-ng) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
 ## homebrew 
@@ -623,7 +624,7 @@
 ## java 
 
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 
 ## javascript 
 
@@ -1342,7 +1343,7 @@
 ## twitter 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+- [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 
 ## typescript 
 
