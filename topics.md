@@ -575,7 +575,7 @@
 
 ## good-first-issue 
 
-- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 
 ## graphql 
