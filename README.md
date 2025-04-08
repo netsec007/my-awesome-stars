@@ -866,7 +866,7 @@
 ## others 
 
 - [hamzasaleem2/subra-local](https://github.com/hamzasaleem2/subra-local) - Manage and track all your subscriptions in one place. Take control of your recurring expenses with Subra's powerful subscription management tools.
-- [SimpleHomelab/deployarr](https://github.com/SimpleHomelab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
+- [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployarr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [bobrik/docker-socat](https://github.com/bobrik/docker-socat) - Minimal docker image for Socat
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
