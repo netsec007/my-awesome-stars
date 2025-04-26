@@ -269,6 +269,7 @@
 
 ## css 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
@@ -318,6 +319,7 @@
 
 ## docker 
 
+- [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - A web app to monitor usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images up-to-date. Made for Kubernetes and Docker.
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
@@ -406,7 +408,7 @@
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertman
@@ -527,7 +529,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 ## good-first-issue 
 
@@ -617,6 +619,7 @@
 
 ## html 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 
 ## icon-font 
@@ -1250,6 +1253,7 @@
 
 ## self-hosted 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images up-to-date. Made for Kubernetes and Docker.
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
