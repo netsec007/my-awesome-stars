@@ -319,7 +319,7 @@
 
 ## docker 
 
-- [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - A web app to monitor usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
+- [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - Dockerstats is a webapp which monitors usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images up-to-date. Made for Kubernetes and Docker.
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
