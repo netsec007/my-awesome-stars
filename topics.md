@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -170,6 +171,10 @@
 - [abteenz/Ansible](https://github.com/abteenz/Ansible) - Network Automation with Ansible and Python
 - [jasonbarbee/ansible-cisco-inventory](https://github.com/jasonbarbee/ansible-cisco-inventory) - Ansible Tooling for Cisco Inventory, Smartnet, and Diagrams
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+
+## api 
+
+- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 
 ## artificial-intelligence 
 
@@ -1253,6 +1258,7 @@
 
 ## python 
 
+- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
