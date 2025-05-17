@@ -772,6 +772,7 @@
 
 ## monitoring 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -873,6 +874,7 @@
 
 ## others 
 
+- [glanceapp/community-widgets](https://github.com/glanceapp/community-widgets) - A collection of custom widgets for Glance made by the community
 - [hamzasaleem2/subra-local](https://github.com/hamzasaleem2/subra-local) - Manage and track all your subscriptions in one place. Take control of your recurring expenses with Subra's powerful subscription management tools.
 - [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
@@ -1259,6 +1261,7 @@
 
 ## self-hosted 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
