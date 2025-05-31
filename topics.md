@@ -371,8 +371,9 @@
 
 ## docker 
 
+- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - Dockerstats is a webapp which monitors usage of your Docker containers. Includes advanced filters, charts and notifications support (browser and pushover).
+- [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - Dockerstats helps you monitor usage of your Docker containers in an easy way from your browser. Includes advanced filters, charts and notifications support (browser and pushover).
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [AlexGustafsson/cupdate](https://github.com/AlexGustafsson/cupdate) - A service to keep container images secure and up-to-date. Made for Kubernetes and Docker.
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
@@ -861,6 +862,7 @@
 
 ## monitoring 
 
+- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
@@ -980,6 +982,10 @@
 
 ## others 
 
+- [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr as played based on your rules
+- [cfstcyr/docker-media-management](https://github.com/cfstcyr/docker-media-management) - A docker-compose template for media management with Plex and the *arrs
+- [cfstcyr/docker-switchboard](https://github.com/cfstcyr/docker-switchboard) - 
+- [thokzz/asset-lookup](https://github.com/thokzz/asset-lookup) - A comprehensive Warranty, Maintenance, Subscription management system with automated notification system
 - [ralsina/grafito](https://github.com/ralsina/grafito) - A simple, nice journald web frontend
 - [Vansmak/composr](https://github.com/Vansmak/composr) - A docker container manager and compose editor
 - [glanceapp/community-widgets](https://github.com/glanceapp/community-widgets) - A collection of custom widgets for Glance made by the community
@@ -1388,6 +1394,7 @@
 
 ## self-hosted 
 
+- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker.
 - [jjf3/mediacore](https://github.com/jjf3/mediacore) - MediaCore is a comprehensive, self-hosted media management solution that combines automated content acquisition with robust IPTV/DVR capabilities.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
