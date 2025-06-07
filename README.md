@@ -325,6 +325,7 @@
 
 ## docker 
 
+- [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Custom alerts/notifications, File system access. All in one UI, for Docker.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [Drakonis96/dockerstats](https://github.com/Drakonis96/dockerstats) - Dockerstats helps you monitor usage of your Docker containers in an easy way from your browser. Includes advanced filters, charts and notifications support (browser and pushover).
