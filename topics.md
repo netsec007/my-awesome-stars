@@ -374,6 +374,7 @@
 
 ## docker 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Custom alerts/notifications, File system access. All in one UI, for Docker.
@@ -727,6 +728,7 @@
 
 ## iot 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 
 ## java 
@@ -993,6 +995,7 @@
 
 ## others 
 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr as played based on your rules
 - [cfstcyr/docker-media-management](https://github.com/cfstcyr/docker-media-management) - A docker-compose template for media management with Plex and the *arrs
 - [cfstcyr/docker-switchboard](https://github.com/cfstcyr/docker-switchboard) - 
@@ -1406,6 +1409,7 @@
 
 ## self-hosted 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Custom alerts/notifications, File system access. All in one UI, for Docker.
 - [jjf3/mediacore](https://github.com/jjf3/mediacore) - MediaCore is a comprehensive, self-hosted media management solution that combines automated content acquisition with robust IPTV/DVR capabilities.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
