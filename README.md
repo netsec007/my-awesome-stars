@@ -1202,7 +1202,7 @@
 - [WilliamMarti/cisco-acl-audit](https://github.com/WilliamMarti/cisco-acl-audit) - Way to clean up ACLs on Routers/L3 Switches
 - [cober2019/Network-Automation](https://github.com/cober2019/Network-Automation) - Cisco ACI, Firepower, Meraki, NETCONF, and SQL Python Programs
 - [network-evolution/Python_for_Network_Engineers](https://github.com/network-evolution/Python_for_Network_Engineers) - This repo contains Scripts which are explained in the youtube Channel https://www.youtube.com/c/NetworkEvolution/videos?sub_confirmation=1
-- [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
+- [twr14152/Network-Automation-Scripts-Python3](https://github.com/twr14152/Network-Automation-Scripts-Python3) - Network automation using various python modules in Python3
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [CiscoDevNet/python_code_samples_network](https://github.com/CiscoDevNet/python_code_samples_network) - A collection of Python Code Samples for Network Management.  Includes samples to run on-box and off-box.
 - [CiscoDevNet/coding-skills-sample-code](https://github.com/CiscoDevNet/coding-skills-sample-code) - Sample code for the Cisco DevNet Coding Skills Learning Labs
@@ -1220,7 +1220,7 @@
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [safouat/Network-Automation-Toolkit](https://github.com/safouat/Network-Automation-Toolkit) - Speed Up and automate various network configurations of Cisco devices using NAPALM and Netmiko in GNS3 or Real network.
-- [twr14152/Network-Automation-Scripts_Python3](https://github.com/twr14152/Network-Automation-Scripts_Python3) - Network automation using various python modules in Python3
+- [twr14152/Network-Automation-Scripts-Python3](https://github.com/twr14152/Network-Automation-Scripts-Python3) - Network automation using various python modules in Python3
 - [johnsondnz/cisco-asa-policy-tester](https://github.com/johnsondnz/cisco-asa-policy-tester) - Python code that connects to Cisco ASA to test security policy and produces HTML5 (bootstrap) reports.
 
 ## raspberry-pi 
