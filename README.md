@@ -574,6 +574,7 @@
 
 ## hacktoberfest 
 
+- [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
 - [linuxserver/docker-sabnzbd](https://github.com/linuxserver/docker-sabnzbd) - 
@@ -848,6 +849,7 @@
 
 ## mysql 
 
+- [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [vikbert/docker-keycloak-sso](https://github.com/vikbert/docker-keycloak-sso) - A proof of concept "Single sign-on" with keycloak server container instance.
@@ -1160,6 +1162,7 @@
 
 ## php 
 
+- [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [maltris/sappss](https://github.com/maltris/sappss) - This is a simple PHP-script which is using SNMP to switch ports on a APC PDU in a nice and easy way
