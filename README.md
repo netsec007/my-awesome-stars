@@ -519,6 +519,7 @@
 
 ## go 
 
+- [bscott/subtrackr](https://github.com/bscott/subtrackr) - Self-hosted Subscription Tracker
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -914,7 +915,6 @@
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [bluegoosemedia/composetoolbox](https://github.com/bluegoosemedia/composetoolbox) - Open source and self hostable docker compose editor and configuration tool
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
-- [bscott/subtrackr](https://github.com/bscott/subtrackr) - Self-hosted Subscription Tracker
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr as played based on your rules
