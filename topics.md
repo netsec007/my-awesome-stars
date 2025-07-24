@@ -976,6 +976,7 @@
 
 ## nextjs 
 
+- [meceware/wapy.dev](https://github.com/meceware/wapy.dev) - Wapy.dev helps you track subscriptions, monitor recurring expenses, and get payment reminders in one powerful and human readable dashboard.
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
