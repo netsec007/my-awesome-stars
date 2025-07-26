@@ -657,7 +657,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs
 - [linuxserver/docker-kali-linux](https://github.com/linuxserver/docker-kali-linux) - Web accessible Kali Linux with a KDE interface
-- [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [SamTV12345/PodFetch](https://github.com/SamTV12345/PodFetch) - A sleek and efficient podcast downloader.
@@ -1072,7 +1071,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station) - 
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule via yt-dlp.
