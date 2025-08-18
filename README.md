@@ -912,7 +912,7 @@
 
 ## others 
 
-- [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
+- [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [kmanan/npm-mobile](https://github.com/kmanan/npm-mobile) - Mobile dashboard for Nginx Proxy Manager -- Android and iPhone. Fully developed using cursor.ai
 - [tiagorvmartins/portanexus](https://github.com/tiagorvmartins/portanexus) - A mobile connection for your Portainer instance
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
