@@ -363,7 +363,7 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [KostaD02/monotor](https://github.com/KostaD02/monotor) - Monotor: Open-Source monitoring application.
-- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
+- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -1203,7 +1203,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
+- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RileyXX/IMDB-Trakt-Syncer](https://github.com/RileyXX/IMDB-Trakt-Syncer) - A python script that syncs user watchlist, ratings, reviews and watch history for Movies, TV Shows and Episodes both ways between Trakt and IMDB.
 - [RileyXX/TMDB-Trakt-Syncer](https://github.com/RileyXX/TMDB-Trakt-Syncer) - A python script that syncs user watchlist and ratings for Movies, TV Shows and Episodes both ways between Trakt and TMDB.
